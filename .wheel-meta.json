@@ -1,0 +1,22 @@
+{
+  "wheel_id": 970,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-com-105",
+  "project": "garage-door-repair-gold-coast-planning-guide-69a1be438b2250f2f2",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-com-152",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repair gold coast planning guide",
+  "intended_url": "http://garage-door-repair-gold-coast-planning-guide-69a1be438b2250f2f2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "aa7c59dbe02f1cb8",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-com-152/",
+      "anchor": "https://sitesau.github.io/goldcoastgaragedoorrepairs-com-152/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
